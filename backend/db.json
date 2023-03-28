@@ -2,15 +2,15 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que vc veio",
-      "autoria": "Nay",
-      "modelo": "modelo1"
+      "conteudo": "nao gostei desse",
+      "autoria": "alemao",
+      "modelo": "modelo3"
     },
     {
       "id": 2,
-      "conteudo": "Estudando Angular",
-      "autoria": "Dev Alura",
-      "modelo": "modelo2"
+      "conteudo": "terminando os estudos de angular",
+      "autoria": "dev Lumac",
+      "modelo": "modelo1"
     },
     {
       "conteudo": "quero almoçar pra krl",
@@ -23,6 +23,12 @@
       "autoria": "nego véio",
       "modelo": "modelo3",
       "id": 6
+    },
+    {
+      "conteudo": "adsuahd",
+      "autoria": "qiuahdsiuhaside",
+      "modelo": "modelo2",
+      "id": 7
     }
   ]
 }
