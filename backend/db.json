@@ -13,22 +13,16 @@
       "modelo": "modelo2"
     },
     {
-      "id": 3,
-      "conteudo": "Angular é o melhor'",
-      "autoria": "Dev Alura",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "quero almoçar",
-      "autoria": "lucas",
-      "modelo": "modelo3",
-      "id": 4
-    },
-    {
       "conteudo": "quero almoçar pra krl",
       "autoria": "lucas",
       "modelo": "modelo2",
       "id": 5
+    },
+    {
+      "conteudo": "quase acabando o curso",
+      "autoria": "nego véio",
+      "modelo": "modelo3",
+      "id": 6
     }
   ]
 }
